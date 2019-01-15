@@ -1,11 +1,11 @@
 # notafiscalse-rp
 
-##### Biblioteca para envio/consulta/cancelamento em lote da Nota Fiscal de Serviços Eletrônica da Cidade de Ribeirão Preto-SP</h1>
+#### Biblioteca para envio/consulta/cancelamento em lote da Nota Fiscal de Serviços Eletrônica da Cidade de Ribeirão Preto-SP
 
-Documentação:
+### Documentação:
   http://ribeiraopreto.ginfesh.com.br/  
   
-Instalação
+### Instalação:
     1. Instalar o gerenciador de build maven 3 e Java 8 em sua máquina.
     2. Faça o clone deste projeto em https://github.com/wandermoschetta/notafiscalse-rp.git
     3. Importe o projeto para IDE Eclipse
