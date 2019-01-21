@@ -174,6 +174,8 @@ public class TestNotaFiscalSe {
 	    	    	
 	    	/* Dados da Nota/Recibo */
 	    	Date dataEmissao = new Date();
+	    	
+	    	notaFiscal.setNumeroNfse(10751);
 	    		    	
 	    	notaFiscal.setNumeroProtocolo("7301558");
 	    	
