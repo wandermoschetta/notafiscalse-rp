@@ -162,8 +162,8 @@ public class TestNotaFiscalSe {
 	    }
 	   	    
 	   private void addConfiguracao(Configura config) {
-	    	config.setCaminhoCertificadoCliente("/home/cpd3/workspace/projetos/notafiscalse/documentos/notafiscalse/sfrp/certificado/Certificado_SF.pfx");
-	        config.setSenhaCertificadoCliente("20242043");
+	    	config.setCaminhoCertificadoCliente("/home/cpd3/workspace/projetos/notafiscalse/documentos/notafiscalse/sfrp/certificado/SERVICO FUNERARIO DE RIBEIRAO PRETO LTDA FILIAL.pfx");
+	        config.setSenhaCertificadoCliente("12345678");
 	        config.setCaminhoArquivoEnvioArmazenado("/home/cpd3/workspace/projetos/notafiscalse/documentos/notafiscalse/sfrp/notafiscal");
 	        config.setUrlWebService("http://homologacao.ginfes.com.br");
 	        config.setUrlEndPointWebService("https://homologacao.ginfes.com.br/ServiceGinfesImpl?wsdl");

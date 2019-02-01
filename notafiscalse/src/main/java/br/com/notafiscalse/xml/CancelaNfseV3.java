@@ -32,7 +32,6 @@ public class CancelaNfseV3 {
         conteudo += "<InscricaoMunicipal xmlns=\"http://www.ginfes.com.br/tipos_v03.xsd\">"+notaFiscal.getInscricaoMunicipalPrestador()+"</InscricaoMunicipal>";
         conteudo += "</Pedido>";
         conteudo += "<CodigoCancelamento>"+notaFiscal.getNumeroNfse()+"</CodigoCancelamento>";
-                
         conteudo += "</CancelarNfseEnvio>";
 		
         return conteudo;
